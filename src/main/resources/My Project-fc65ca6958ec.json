@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coherent-cinema-180012",
+  "private_key_id": "fc65ca6958ec1b914a54d4416a2ffde337265c28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUVeJP/FpCytLb\nJdxJzp+ajVgPXejYGHMHB7oLmSHPO9TOQ2962bge78pzgZOpdK9wMUkczMzHMBU3\nhWnbFnlIs1sOqG7ET4tmBNNNAidld8QhXFAPTtgDEiSOyJL25+7/A0vhH4ETq7a9\n62Ag01NjH6f/SLk8HNmRXrq9S4GiJe4XACgq56Qz7rj5Y8UfTspZCM87uCU+IfQM\ndTACwXahHonqQVlotbe61vH2S90f/OvSJdHD0GdoznFx0FIMs0zJzewLBoqqmhk8\ncuemzkK/9Pk3JRu7kub1wGp9KWMZD8C87+MHSQ3mTLg3R4PVlUrtrcmzOSxsR4bp\nxqc262F9AgMBAAECggEALzM9ONMLnHPaLeFrZ9PAyloXpGjXeOvsa/hlfK0IZTjz\nW/uFFT2/Dk93BTidYqqf0hR+oGKNNc0ENmCXkJ5dDRJjkC1UXBqjjeTONLzhFY7r\nQBA1csWvwnT+v+epta2GhNUOgcdfScheubaQGpPnYi44Cck4dfqiyYwRfkFB2pFk\nhIIzysz7fBwF9iRrZDUvyCKHg8araupC88ZdHgntoTS5KnOXaUaeYEokKSN1Y1c/\nSSff6oc/GP31AGeYDO5/Lj6FyKlvkg7pE9tUrV54kZbxwX8AOQOiY07hZnjviqou\nLa30pRfIOmAfrX2J0TIUA8RHBSoSUemigUlwLX8/UQKBgQD6BSaQYSeK0eM5n1nd\nbRZJ9NWs1AhYHZaq26kLuGYkAsk6p1X7zGySzLIOmOSfDFwUEBy0cMRAwoaaik3W\nDiHWH/4X5nLLE5vg3YzgPx5IKCE0JtN1L5/PORCEmbMNihridZydQBXmu6D3KOpQ\nQ2v0JBD+iFdXbGcxPVPQhZWmzQKBgQDZaf50ZIhXUwUzbU8ZtaVeFHWQf/o3nWAt\nuEaKTOCo23zsscQvlg5GGrHCNsFFJzJ+i1WIEezrCQBycwvqOvtD7Wn17DWpTtvC\nGnSW3PNCsjrIQjLBHJCNbxvXiw7eCH4XCSWs1Lo9cz9uoWb4gXuPrl2aN08Ez2CK\nVvSGJoXFcQKBgQClAQk2eCgUofiIavZwADKZlJAAg98N6FkrYdTq+0PNuFj98Ln6\neCufpqBMqfMYVJvgUdHf9BxRcRBMpcJA5wrFuk+Djn9sLwDNIup6hK2DiZiARq9/\nw3KA3HReTuGwqdicZGp8DXNm16Wf+MzLM/PnKHZexbR+6fggswzBrafacQKBgQCk\nnSlpTTkiDRzx/ECY8bzcx9bf6tY0R7crxsu6KU0s7MrgmBQ4B4CVOd7/ct/REUWd\nJLhFB3V/29f3z/3kgnX+z4KcDhXvNGMVy1wdYfvZswLo3554Mr2MKOVGxOYj3QBD\nRsy82HCO2HTdud0yKS+58Uaz3k65EJ9C/2WzMPW2MQKBgD/XLFS7SouuhpEy1GK2\nczIfjL54sQdHSOCnm6tq1+xCG9FI4fFgIR9dTSEOLn/klLg9cNdADX6CxQlchYtm\nSPiTRy0NvcvZiR2Lf9IkMRkbrRTXiNiCbrrycqMc7rYu2ziKPL7E154q0+zqlA74\n6l0ecDh6NkhpGrWU79Qx04WP\n-----END PRIVATE KEY-----\n",
+  "client_email": "scip-250@coherent-cinema-180012.iam.gserviceaccount.com",
+  "client_id": "106104992031582488713",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scip-250%40coherent-cinema-180012.iam.gserviceaccount.com"
+}
